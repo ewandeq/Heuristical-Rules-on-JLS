@@ -1,0 +1,12 @@
+label,count,pct,variable
+UNKNOWN,262,58.88,y_agent
+TOPIC,91,20.45,y_agent
+LAST_PATIENT,58,13.03,y_agent
+LAST_AGENT,34,7.64,y_agent
+-,220,49.44,y_patient
+UNKNOWN,143,32.13,y_patient
+TOPIC,63,14.16,y_patient
+LAST_AGENT,10,2.25,y_patient
+LAST_PATIENT,9,2.02,y_patient
+True,225,50.56,need_patient
+False,220,49.44,need_patient

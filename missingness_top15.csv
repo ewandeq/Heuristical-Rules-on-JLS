@@ -1,0 +1,16 @@
+colonne,missing_rate
+clause_id,0.0
+reason_expansion,0.0
+agent_top1,0.0
+agent_top2,0.0
+agent_margin,0.0
+agent_max_non_unknown,0.0
+patient_top1,0.0
+patient_top2,0.0
+patient_margin,0.0
+patient_max_non_unknown,0.0
+needs_ml_agent_margin,0.0
+needs_ml_patient_margin,0.0
+need_patient,0.0
+action_value,0.0
+d_topic_last_agent,0.0
